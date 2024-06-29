@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/Digital/vivado projects/traffic_light_controller/traffic_light_controller.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/Digital/vivado projects/traffic_light_controller/traffic_light_controller.srcs/sim_1/new/testbench_traffic.v,1719468426,verilog,,,,Traffic_Light_Controller_TB,,,,,,,,
+D:/Digital/vivado projects/traffic_light_controller/traffic_light_controller.srcs/sources_1/new/traffic_light.v,1719468429,verilog,,D:/Digital/vivado projects/traffic_light_controller/traffic_light_controller.srcs/sim_1/new/testbench_traffic.v,,Traffic_Light_Controller,,,,,,,,
